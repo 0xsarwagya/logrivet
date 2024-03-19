@@ -9,7 +9,6 @@ You can install LogRivet via npm:
 ```bash
 npm install log-rivet
 ```
-````
 
 ## Usage
 
