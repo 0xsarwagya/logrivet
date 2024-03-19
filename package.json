@@ -1,0 +1,35 @@
+{
+  "name": "logrivet",
+  "version": "1.0.0",
+  "description": "Lightweight TypeScript logging utility with customizable formatting and file storage.",
+  "main": "dist/index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "Logging",
+    "Logger",
+    "Utility",
+    "Debugging",
+    "Development",
+    "Console",
+    "Colors",
+    "Typescript",
+    "File logging",
+    "Error handling"
+  ],
+  "author": "Sarwagya Singh",
+  "license": "ISC",
+  "homepage": "https://github.com/0xsarwagya/logrivet",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xsarwagya/logrivet.git"
+  },
+  "dependencies": {
+    "typescript": "^5.4.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.29"
+  }
+}

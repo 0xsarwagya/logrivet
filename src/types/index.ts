@@ -1,0 +1,1 @@
+export type LEVEL = 'debug' | 'info' | 'warn' | 'error' | 'success';
